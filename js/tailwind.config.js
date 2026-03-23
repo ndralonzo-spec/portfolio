@@ -22,9 +22,9 @@ tailwind.config = {
                 "tertiary": "#ffb872"
             },
             fontFamily: {
-                "headline": ["Manrope"],
-                "body": ["Inter"],
-                "label": ["Inter"]
+                "headline": ["Newsreader", "serif"],
+                "body": ["Manrope", "sans-serif"],
+                "label": ["Manrope", "sans-serif"]
             }
         }
     }
